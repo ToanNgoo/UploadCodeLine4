@@ -1,0 +1,674 @@
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\Communication.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\Keyence.AutoID.SDK.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\VncClientControlCommon.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\VncClientControlCommonLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\SetSystemTime.dll
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form1.resources
+D:\01. CPE DEV\03. 2022\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\OptionDefine.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form1.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+D:\01. CPE DEV\03. 2022\02. QR Code System\CONTROL ROBOT AF1\CONTROL ROBOT AF1\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\bin\Debug\Communication.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\bin\Debug\Keyence.AutoID.SDK.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\bin\Debug\VncClientControlCommon.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\bin\Debug\VncClientControlCommonLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT AF2\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF2 (AUTO INPUT CODE)\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF5\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+D:\Program\CONTROL ROBOT AF6\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+D:\Program\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\Program\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\Program\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+D:\Program\CONTROL ROBOT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+D:\Program\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+D:\01. Program\CONTROL ROBOT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF10\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF11\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF12\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF13\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+D:\Program\CONTROL ROBOT AF13\CONTROL ROBOT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF14\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+D:\Program\CONTROL ROBOT AF15\CONTROL ROBOT AF15\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT AF16\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+D:\01. Program\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\CONTROL ROBOT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT FINAL\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF2\CONTROL ROBOT FINAL\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\bin\Debug\CONTROL ROBOT.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF3\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF4.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF4.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF4.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF4.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF4.pdb
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF5.exe.config
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF5.exe
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF5.pdb
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF5.exe
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF4\AUTO SCAN INPUT AF4\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF5.pdb
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF6.exe.config
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF6.exe
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF6.pdb
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF6.exe
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF5\AUTO SCAN INPUT AF5\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF6.pdb
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF6.exe.config
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF6.exe
+E:\1. Program\4. PBA#4\9. AUTO SCAN INPUT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF6.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF6.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF6.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF6.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF6.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF6.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\AUTO SCAN INPUT AF6\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF7.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF7.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF7.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF7.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF7.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\AUTO SCAN INPUT AF7\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF9.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF9.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF9.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF9.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\AUTO SCAN INPUT AF8\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF9.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF9.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF9.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\AUTO SCAN INPUT AF9\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF9.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF10.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF10.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF10.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF10.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF10.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\AUTO SCAN INPUT AF10\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF11.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF11.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF11.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF11.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF11.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\AUTO SCAN INPUT AF11\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF12.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF12.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF12.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF12.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF12.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\AUTO SCAN INPUT AF12\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF13.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF13.pdb
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.exe.config
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF13.exe
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF13.pdb
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.exe
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.pdb
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.exe.config
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF13.exe
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF13.pdb
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.exe
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF13.pdb
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+D:\sdiv\1. program\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF14.exe.config
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF14.exe
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF14.pdb
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF14.exe
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF13\LINE 4 _ AUTO SCAN INPUT AF13\AUTO SCAN INPUT AF13\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF14.pdb
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF14.exe.config
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF14.exe
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF14.pdb
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF14.exe
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF14.pdb
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LINE 4 _ AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF14.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF14.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF14\AUTO SCAN INPUT AF14\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF14.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF15.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF15.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF15.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF15.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF15.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF15\AUTO SCAN INPUT AF15\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF17.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF17.exe.config
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_AlarmPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_JogRobot.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_Login.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.fMain.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Form_ProgressBarPLC.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL_ROBOT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF17.exe
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF17.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF17.pdb
+C:\Users\Administrator\Desktop\C#\CONTROL ROBOT\AUTO SCAN INPUT AF17\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF17.exe.config
+C:\Users\Administrator\Desktop\Program Dev\Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\Program Dev\Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Program Dev\Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF17.exe
+C:\Users\Administrator\Desktop\Program Dev\Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF17.pdb
+C:\Users\Administrator\Desktop\Program Dev\2. Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\bin\Debug\INPUT BARCODE AF17.exe.config
+C:\Users\Administrator\Desktop\Program Dev\2. Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\Administrator\Desktop\Program Dev\2. Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\CONTROL ROBOT.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Program Dev\2. Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF17.exe
+C:\Users\Administrator\Desktop\Program Dev\2. Auto Input Code HHP Line\AUTO SCAN INPUT AF17\CONTROL ROBOT\obj\Debug\INPUT BARCODE AF17.pdb
